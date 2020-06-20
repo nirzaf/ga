@@ -1,1 +1,0 @@
-gakandy website 
