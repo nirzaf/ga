@@ -109,7 +109,7 @@ b.max-bold{ font-weight: 700; }
 
 header{ position: absolute; top: 30px; left: 0; right: 0; z-index: 100; }
 
-header .heading-wrapper{ border-radius: 5px; padding: 30px 40px 20px; background: blue ; color: #fff; }
+header .heading-wrapper{ border-radius: 5px; padding: 30px 40px 20px; background:#000033 ; color: #fff; }
 
 header .info{ margin-bottom: 10px; }
 
@@ -198,7 +198,7 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 7. EXPERIENCE SECTION
 --------------------------------- */
 
-.experience-section{ background:darkblue; color: #fff; }
+.experience-section{ background:#000033; color: #fff; }
 
 .experience .list > li{ display: block; position: relative; margin-bottom: 10px; padding-left: 20px; }
 
@@ -245,12 +245,12 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 .radial-progress{ position: relative; max-width: 200px; margin: 0 auto; }
 
 .radial-progress .progressbar-text{ font-size: 2.2em; font-weight: 500; 
-	padding-bottom: 25px!important; color: #333!important; }
+	padding-bottom: 25px!important; color: #0000!important; }
 
 .radial-progress .progressbar-text:after{ content:'%'; }
 
 .radial-progress .progress-title{ position: absolute; top: 50%; left: 50%; width: 100%;
-	letter-spacing: 0; text-align: center; transform: translate(-50%, 15px); color: #777; }
+	letter-spacing: 0; text-align: center; transform: translate(-50%, 15px); color: #dddddd; }
 
 	
 	
@@ -258,5 +258,5 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 10. FOOTER
 --------------------------------- */
 
-.copyright{ text-align: center; padding: 30px 0; background: #28023D; }
+.copyright{ text-align: center; padding: 30px 0; background: #000000; color:white }
 
