@@ -192,7 +192,7 @@ table {
 caption {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
-  color: #6c757d;
+  color: #000000;
   text-align: left;
   caption-side: bottom; }
 
@@ -395,7 +395,7 @@ mark,
 .blockquote-footer {
   display: block;
   font-size: 80%;
-  color: #6c757d; }
+  color: #000000; }
   .blockquote-footer::before {
     content: "\2014\00A0"; }
 
@@ -420,7 +420,7 @@ mark,
 
 .figure-caption {
   font-size: 90%;
-  color: #6c757d; }
+  color: #131516; }
 
 code {
   font-size: 87.5%;
@@ -7877,7 +7877,7 @@ a.text-primary:hover, a.text-primary:focus {
   color: #0056b3 !important; }
 
 .text-secondary {
-  color: #6c757d !important; }
+  color: #000000 !important; }
 
 a.text-secondary:hover, a.text-secondary:focus {
   color: #494f54 !important; }
