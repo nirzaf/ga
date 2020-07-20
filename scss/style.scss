@@ -10,8 +10,6 @@ $darken: #00043c;
 $primary: #1ba12d;
 $secondary: #8fd0d2;
 
-
-
 @mixin border-radius($radius) {
   -webkit-border-radius: $radius;
      -moz-border-radius: $radius;
@@ -27,9 +25,6 @@ $secondary: #8fd0d2;
     transition:         all $transition ease;
 }
 
-html {
-	// overflow-x: hidden;
-}
 body {
 	font-family: $font-primary;
 	background: $white;
@@ -159,7 +154,6 @@ h1, h2, h3, h4, h5,
 
 	.navbar-brand {
 		color: $black;
-		// text-transform: uppercase;
 		font-weight: 800;
 		font-size: 28px;
 		line-height: 1;
