@@ -46,6 +46,11 @@ html {
     width:100%;
 }
 
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
 .video-container::after {
     padding-top: 56.25%;
     display: block;
