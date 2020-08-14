@@ -472,13 +472,13 @@ h1, h2, h3, h4, h5,
 	}
 	&.home-slider {
 		position: relative;
-		height: 700px;
+		height: 500px;
 		z-index: 0;
 		.slider-item {
 			background-size: cover;
 			background-repeat: no-repeat;
 			background-position: center center;
-			height: 700px;
+			height: 500px;
 			position: relative;
 			z-index: 0;
 			overflow: hidden;
